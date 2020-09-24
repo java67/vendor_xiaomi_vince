@@ -1156,5 +1156,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdCommon \
     vendor.qti.hardware.alarm-V1.0-java \
-    qti-telephony-common \
     chargeonlymode
